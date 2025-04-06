@@ -2,21 +2,31 @@ SLAM - simultaneous localization and mapping
 
 
 @Page 2
+@From: In this Work, we seek...
 
+| Key                               | Explanation, first run  |
+| --------------------------------- | ----------------------- |
+|                                   |                         |
+|                                   |                         |
+| hierarchical scene representation |                         |
+| neural implicit representation    |                         |
+| dense RGB-D SLAM                  |                         |
+| NICE-SLAM                         | dense RGB-D SLAM system |
+| predictive ability                |                         |
+| scene geometry                    |                         |
+| scene appearance                  |                         |
+|                                   |                         |
+| feature grid                      |                         |
+| hierarchical feature grids        |                         |
+| decoder                           |                         |
+| inductive bias                    |                         |
+| neural implicit decoder           |                         |
+| spatial resolution                |                         |
+|                                   |                         |
+|                                   |                         |
+|                                   |                         |
+|                                   |                         |
 
-
-|     |     |
-| --- | --- |
-|     |     |
-
-
-feature grids - 
-
-decoder - 
-
-inductive biases of neural implicit decoders - 
-
-decoders pretrained at different spatial resolutions - 
 
 
 
