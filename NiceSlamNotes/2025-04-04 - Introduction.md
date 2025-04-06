@@ -89,3 +89,7 @@ In contrast, recent works \[38, 49\] demonstrate
 
 
 
+Weiter bei: In this work, we seek to combine the strengths of hier-
+archical scene representations with those of neural implicit
+representations for the task of dense RGB-D S...
+Seite 2
