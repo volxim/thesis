@@ -37,6 +37,7 @@ SLAM - simultaneous localization and mapping
 |                                   |                                                                                                                                                                                                                                                                |
 |                                   |                                                                                                                                                                                                                                                                |
 |                                   |                                                                                                                                                                                                                                                                |
+|                                   |                                                                                                                                                                                                                                                                |
 
 @Page2, 2. Related Work
 

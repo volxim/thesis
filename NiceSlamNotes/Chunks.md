@@ -1,5 +1,5 @@
 
-**Extractions**
+
 
 We present NICE-SLAM, a dense RGB-D SLAM system
 that is real-time capable, scalable, predictive, and robust
