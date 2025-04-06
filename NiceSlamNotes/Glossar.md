@@ -30,12 +30,26 @@ SLAM - simultaneous localization and mapping
 | re-rendering losses               |                                                                                                                                                                                                                                                                |
 | indoor RGB-D sequences            |                                                                                                                                                                                                                                                                |
 | RGB-D Camera                      | A camera that provides both depth (D) and color (RGB) data as the output in real-time.<br>https://www.e-consystems.com/blog/camera/technology/what-are-rgbd-cameras-why-rgbd-cameras-are-preferred-in-some-embedded-vision-applications/<br>`2025-04-06 14:43` |
+| scalability                       | smal room -> big room or so                                                                                                                                                                                                                                    |
+| predictive ability                |                                                                                                                                                                                                                                                                |
+| mapping                           |                                                                                                                                                                                                                                                                |
+| tracking                          |                                                                                                                                                                                                                                                                |
+|                                   |                                                                                                                                                                                                                                                                |
+|                                   |                                                                                                                                                                                                                                                                |
 |                                   |                                                                                                                                                                                                                                                                |
 
+@Page2, 2. Related Work
+
+| Key                               | Explanation, first run                                                                                                                                                                                                                                         |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                   |                                                                                                                                                                                                                                                                |
+|                                   |                                                                                                                                                                                                                                                                |
 
 
 ---
 Playground and Templates for the Glossar section
+
+
 
 
 
